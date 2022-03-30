@@ -1,0 +1,1 @@
+{"fields": {"project": {"key": "TES"}, "summary": "My Dummy Ticket created by REST API", "description": "Dummy CR for REST API Test", "confluence": "Dummy Confluence Page Link", "verification_steps": "Verification Plan", "issuetype": {"id": "10002"}}}
