@@ -1,6 +1,6 @@
 # JIRA Tickets Per Minute
 
-Jira TPM ("Tickets per minutee") is a complete, secure and scalable microservice example written in Python (and compiled to executable C code) to automatically create Jira tickets for testing purposes and provide up to the minute historical reporting over thos tickets with High or Highest severity. It has been written to meet requirements specified in the take home assignment for Silk Security.
+Jira TPM ("Tickets per minutee") is a complete, secure and scalable microservice example written in Python (and compiled to executable C code) to automatically create Jira tickets for testing purposes and provide up to the minute historical reporting over thos tickets with High or Highest severity. 
 
 The service is written in Python and then compiled to C byte code. However this version includes the source files as a fallback. so it can be run without compiling *make build-arch* (or *docker-compose up*).
 
